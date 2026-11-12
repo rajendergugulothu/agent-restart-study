@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Secrets
+.env
+*.key
+
+# Data and raw outputs (link to datasets, do not copy them)
+data/
+results/raw/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
